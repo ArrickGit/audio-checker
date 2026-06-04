@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.csv
+.DS_Store
+**/.DS_Store
+
+!example_audio/
+!example_audio/**/
+!example_audio/**/*.wav
